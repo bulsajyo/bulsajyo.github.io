@@ -1,13 +1,8 @@
 ---
-title: "Edge Case: Nested and Mixed Lists"
-categories:
-  - Edge Case
-tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
+title: "The first post of bulsajyo.github.io"
+date: 2020-11-30 17:27:00
+categories: jekyll
+  
 ---
 
 The first post
